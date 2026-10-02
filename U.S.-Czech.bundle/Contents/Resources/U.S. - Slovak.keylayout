@@ -377,11 +377,11 @@
 			<key code="4" output=""/>
 			<key code="5" action="©"/>
 			<key code="6" action="Ω"/>
-			<key code="7" output=""/>
+			<key code="7" output="✕"/>
 			<key code="8" action="ç"/>
 			<key code="9" output="✓"/>
 			<key code="10" output="§"/>
-			<key code="11" output=""/>
+			<key code="11" output="•"/>
 			<key code="12" output="ä"/>
 			<key code="13" output="ě"/>
 			<key code="14" action="0"/>
@@ -486,11 +486,11 @@
 			<key code="4" output=""/>
 			<key code="5" action="˝"/>
 			<key code="6" action="¸"/>
-			<key code="7" output=""/>
+			<key code="7" output="✕"/>
 			<key code="8" action="Ç"/>
 			<key code="9" output="✓"/>
 			<key code="10" output="±"/>
-			<key code="11" output=""/>
+			<key code="11" output="•"/>
 			<key code="12" output="Ä"/>
 			<key code="13" action="„"/>
 			<key code="14" action="´"/>
